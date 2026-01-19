@@ -1,0 +1,406 @@
+﻿{
+    "failedCount":  44,
+    "version":  "Winter 26 API v65.0",
+    "successCount":  0,
+    "generatedAt":  "2026-01-17T23:47:04.6772293-06:00",
+    "documentation":  [
+                          {
+                              "id":  "apexcode",
+                              "name":  "Apex Developer Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apexcode.pdf"
+                          },
+                          {
+                              "id":  "apexref",
+                              "name":  "Apex Reference Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apexref.pdf"
+                          },
+                          {
+                              "id":  "api_rest",
+                              "name":  "REST API Developer Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_rest.pdf"
+                          },
+                          {
+                              "id":  "api",
+                              "name":  "SOAP API Developer Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api.pdf"
+                          },
+                          {
+                              "id":  "api_meta",
+                              "name":  "Metadata API Developer Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_meta.pdf"
+                          },
+                          {
+                              "id":  "api_bulk_v2",
+                              "name":  "Bulk API 2.0",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_bulk_v2.pdf"
+                          },
+                          {
+                              "id":  "api_streaming",
+                              "name":  "Streaming API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_streaming.pdf"
+                          },
+                          {
+                              "id":  "api_tooling",
+                              "name":  "Tooling API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_tooling.pdf"
+                          },
+                          {
+                              "id":  "api_asynch",
+                              "name":  "Async SOQL",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_asynch.pdf"
+                          },
+                          {
+                              "id":  "api_analytics",
+                              "name":  "Reports and Dashboards API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_analytics.pdf"
+                          },
+                          {
+                              "id":  "object_reference",
+                              "name":  "Object Reference",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/object_reference.pdf"
+                          },
+                          {
+                              "id":  "lightning",
+                              "name":  "Lightning Web Components",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/lightning.pdf"
+                          },
+                          {
+                              "id":  "aura",
+                              "name":  "Aura Components",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/aura.pdf"
+                          },
+                          {
+                              "id":  "pages",
+                              "name":  "Visualforce",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/pages.pdf"
+                          },
+                          {
+                              "id":  "soql_sosl",
+                              "name":  "SOQL and SOSL Reference",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/soql_sosl.pdf"
+                          },
+                          {
+                              "id":  "chatterapi",
+                              "name":  "Chatter REST API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/chatterapi.pdf"
+                          },
+                          {
+                              "id":  "sfdx_dev",
+                              "name":  "Salesforce DX",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_dev.pdf"
+                          },
+                          {
+                              "id":  "sfdx_cli_reference",
+                              "name":  "Salesforce CLI",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf"
+                          },
+                          {
+                              "id":  "ajax",
+                              "name":  "AJAX Toolkit",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/ajax.pdf"
+                          },
+                          {
+                              "id":  "daas",
+                              "name":  "Ant Migration Tool",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/daas.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_json",
+                              "name":  "Analytics Dashboard JSON",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_json.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_xmd",
+                              "name":  "Analytics XMD",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_xmd.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_ext_data",
+                              "name":  "Analytics External Data API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_ext_data.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_saql",
+                              "name":  "Analytics SAQL",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_sdk",
+                              "name":  "Analytics SDK",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_sdk.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_wave_templates",
+                              "name":  "Analytics Templates",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_wave_templates.pdf"
+                          },
+                          {
+                              "id":  "platform_connect",
+                              "name":  "Salesforce Connect",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/platform_connect.pdf"
+                          },
+                          {
+                              "id":  "identityImplGuide",
+                              "name":  "Identity Implementation",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/identityImplGuide.pdf"
+                          },
+                          {
+                              "id":  "externalidentityImplGuide",
+                              "name":  "External Identity",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/externalidentityImplGuide.pdf"
+                          },
+                          {
+                              "id":  "platform_encryption",
+                              "name":  "Platform Encryption",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/platform_encryption.pdf"
+                          },
+                          {
+                              "id":  "packagingGuide",
+                              "name":  "ISVforce Guide",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/packagingGuide.pdf"
+                          },
+                          {
+                              "id":  "appExchangeInstallGuide",
+                              "name":  "Application Installation",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/appExchangeInstallGuide.pdf"
+                          },
+                          {
+                              "id":  "mobile_sdk",
+                              "name":  "Mobile SDK",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/mobile_sdk.pdf"
+                          },
+                          {
+                              "id":  "communities_dev",
+                              "name":  "Communities",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/communities_dev.pdf"
+                          },
+                          {
+                              "id":  "knowledge_dev",
+                              "name":  "Knowledge Management",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/knowledge_dev.pdf"
+                          },
+                          {
+                              "id":  "feeds",
+                              "name":  "Feeds",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/feeds.pdf"
+                          },
+                          {
+                              "id":  "api_action",
+                              "name":  "Actions API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_action.pdf"
+                          },
+                          {
+                              "id":  "api_iot",
+                              "name":  "IoT REST API",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_iot.pdf"
+                          },
+                          {
+                              "id":  "api_cti",
+                              "name":  "CTI",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_cti.pdf"
+                          },
+                          {
+                              "id":  "api_console",
+                              "name":  "Console Integration",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_console.pdf"
+                          },
+                          {
+                              "id":  "api_cxf",
+                              "name":  "Canvas",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_cxf.pdf"
+                          },
+                          {
+                              "id":  "asl_dev_guide",
+                              "name":  "Accounting Subledger",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/asl_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "agentforce_it_service_dev_guide",
+                              "name":  "Agentforce IT Service",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/agentforce_it_service_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "noversioning",
+                              "name":  "API Integration",
+                              "sizeMB":  0,
+                              "status":  "failed",
+                              "error":  "Exception calling \"DownloadFile\" with \"2\" argument(s): \"An exception occurred during a WebClient request.\"",
+                              "pdfPath":  "",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/noversioning.pdf"
+                          }
+                      ],
+    "totalDocs":  44,
+    "totalSizeMB":  0
+}

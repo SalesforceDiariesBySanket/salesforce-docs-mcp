@@ -1,0 +1,1099 @@
+﻿{
+    "totalDiscovered":  121,
+    "version":  "Winter 26 (API v65.0)",
+    "successCount":  121,
+    "totalSizeMB":  426.51,
+    "generatedAt":  "2026-01-18T00:00:57.1917701-06:00",
+    "documentation":  [
+                          {
+                              "id":  "ajax",
+                              "name":  "AJAX Toolkit Developer Guide",
+                              "pdfFile":  "apex_ajax.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.63,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apex_ajax.pdf"
+                          },
+                          {
+                              "id":  "api",
+                              "name":  "About SOAP API",
+                              "pdfFile":  "apex_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.14,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apex_api.pdf"
+                          },
+                          {
+                              "id":  "api_action",
+                              "name":  "Introducing Actions",
+                              "pdfFile":  "api_action.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.95,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_action.pdf"
+                          },
+                          {
+                              "id":  "api_analytics",
+                              "name":  "Overview",
+                              "pdfFile":  "salesforce_analytics_rest_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.77,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_analytics_rest_api.pdf"
+                          },
+                          {
+                              "id":  "api_asynch",
+                              "name":  "Introduction to Bulk API 2.0 and Bulk API",
+                              "pdfFile":  "api_asynch.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.46,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_asynch.pdf"
+                          },
+                          {
+                              "id":  "api_console",
+                              "name":  "Salesforce Console Developer Guide",
+                              "pdfFile":  "api_console.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.57,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_console.pdf"
+                          },
+                          {
+                              "id":  "api_cti",
+                              "name":  "Get Started with Open CTI",
+                              "pdfFile":  "api_cti.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.47,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_cti.pdf"
+                          },
+                          {
+                              "id":  "api_meta",
+                              "name":  "Understanding Metadata API",
+                              "pdfFile":  "api_meta.pdf",
+                              "status":  "success",
+                              "sizeMB":  10.54,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_meta.pdf"
+                          },
+                          {
+                              "id":  "api_rest",
+                              "name":  "Introduction to REST API",
+                              "pdfFile":  "api_rest.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.5,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_rest.pdf"
+                          },
+                          {
+                              "id":  "api_streaming",
+                              "name":  "Getting Started with Streaming API",
+                              "pdfFile":  "api_streaming.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.38,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_streaming.pdf"
+                          },
+                          {
+                              "id":  "api_tooling",
+                              "name":  "Introducing Tooling API",
+                              "pdfFile":  "api_tooling.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.56,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_tooling.pdf"
+                          },
+                          {
+                              "id":  "api_placeorder",
+                              "name":  "Place Order REST API Developer Guide",
+                              "pdfFile":  "salesforce_placeorder_rest_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.54,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_placeorder_rest_api.pdf"
+                          },
+                          {
+                              "id":  "apexcode",
+                              "name":  "Apex Developer Guide",
+                              "pdfFile":  "salesforce_apex_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  5.68,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_apex_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "apexref",
+                              "name":  "Apex Reference Guide",
+                              "pdfFile":  "salesforce_apex_reference_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  25.27,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_apex_reference_guide.pdf"
+                          },
+                          {
+                              "id":  "pages",
+                              "name":  "Introducing Visualforce",
+                              "pdfFile":  "salesforce_pages_developers_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  7.95,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_pages_developers_guide.pdf"
+                          },
+                          {
+                              "id":  "lightning",
+                              "name":  "Introducing Aura Components",
+                              "pdfFile":  "lightning.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.68,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/lightning.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_json",
+                              "name":  "CRM Analytics Dashboard JSON Overview",
+                              "pdfFile":  "bi_dev_guide_json.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.81,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_json.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_xmd",
+                              "name":  "Extended Metadata (XMD) Overview",
+                              "pdfFile":  "bi_dev_guide_xmd.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.07,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_xmd.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_ext_data",
+                              "name":  "External Data",
+                              "pdfFile":  "bi_dev_guide_ext_data.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.55,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_ext_data.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_saql",
+                              "name":  "Overview",
+                              "pdfFile":  "bi_dev_guide_saql.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.69,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_sdk",
+                              "name":  "Analytics SDK Developer Guide Overview",
+                              "pdfFile":  "bi_dev_guide_sdk.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.31,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_sdk.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_wave_templates",
+                              "name":  "Why CRM Analytics Templates?",
+                              "pdfFile":  "bi_dev_guide_wave_templates.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.96,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_wave_templates.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_rest",
+                              "name":  "CRM Analytics REST API Overview",
+                              "pdfFile":  "bi_dev_guide_rest.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.2,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_rest.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_sql",
+                              "name":  "Introducing SQL for CRM Analytics",
+                              "pdfFile":  "bi_dev_guide_sql.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.9,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_sql.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_cli_reference",
+                              "name":  "Salesforce Analytics CLI Plugin Command Reference",
+                              "pdfFile":  "bi_dev_guide_cli_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.68,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_cli_reference.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_lwc_in_db",
+                              "name":  "Lightning Web Components in CRM Analytics Dashboards",
+                              "pdfFile":  "bi_dev_guide_lwc_in_db.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.65,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_lwc_in_db.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_rest_sdd",
+                              "name":  "Einstein Discovery REST API Overview",
+                              "pdfFile":  "bi_dev_guide_rest_sdd.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.61,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_rest_sdd.pdf"
+                          },
+                          {
+                              "id":  "sfdx_dev",
+                              "name":  "How Salesforce Developer Experience (DX) Tooling Changes the Way You Work",
+                              "pdfFile":  "sfdx_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.42,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_dev.pdf"
+                          },
+                          {
+                              "id":  "sfdx_cli_reference",
+                              "name":  "Salesforce CLI Command Reference",
+                              "pdfFile":  "sfdx_cli_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.52,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf"
+                          },
+                          {
+                              "id":  "sfdx_setup",
+                              "name":  "Quick Start",
+                              "pdfFile":  "sfdx_setup.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.36,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_setup.pdf"
+                          },
+                          {
+                              "id":  "soql_sosl",
+                              "name":  "Introduction to SOQL and SOSL",
+                              "pdfFile":  "salesforce_soql_sosl.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.63,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_soql_sosl.pdf"
+                          },
+                          {
+                              "id":  "object_reference",
+                              "name":  "Overview of Salesforce Objects and Fields",
+                              "pdfFile":  "object_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  19.03,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/object_reference.pdf"
+                          },
+                          {
+                              "id":  "platform_events",
+                              "name":  "Platform Events Developer Guide",
+                              "pdfFile":  "platform_events.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.88,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/platform_events.pdf"
+                          },
+                          {
+                              "id":  "change_data_capture",
+                              "name":  "Change Data Capture",
+                              "pdfFile":  "salesforce_change_data_capture.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.52,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_change_data_capture.pdf"
+                          },
+                          {
+                              "id":  "uiapi",
+                              "name":  "Get Started with User Interface API",
+                              "pdfFile":  "api_ui.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.02,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_ui.pdf"
+                          },
+                          {
+                              "id":  "platform_connect",
+                              "name":  "Introducing Canvas",
+                              "pdfFile":  "canvas_framework.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.56,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/canvas_framework.pdf"
+                          },
+                          {
+                              "id":  "chatterapi",
+                              "name":  "Connect REST API Developer Guide",
+                              "pdfFile":  "salesforce_chatter_rest_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  12.51,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_chatter_rest_api.pdf"
+                          },
+                          {
+                              "id":  "daas",
+                              "name":  "Ant Migration Tool",
+                              "pdfFile":  "salesforce_migration_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.64,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_migration_guide.pdf"
+                          },
+                          {
+                              "id":  "dataLoader",
+                              "name":  "Data Loader",
+                              "pdfFile":  "salesforce_data_loader.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.86,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_data_loader.pdf"
+                          },
+                          {
+                              "id":  "salesforce_recipes_api",
+                              "name":  "Data Prep Recipe REST API Overview",
+                              "pdfFile":  "salesforce_recipes_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.27,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_recipes_api.pdf"
+                          },
+                          {
+                              "id":  "integration_patterns_and_practices",
+                              "name":  "Integration Patterns Overview",
+                              "pdfFile":  "integration_patterns_and_practices.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.96,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/integration_patterns_and_practices.pdf"
+                          },
+                          {
+                              "id":  "identityImplGuide",
+                              "name":  "What Is Salesforce Identity?",
+                              "pdfFile":  "salesforce_identity_implementation_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.13,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/232/latest/en-us/sfdc/pdf/salesforce_identity_implementation_guide.pdf"
+                          },
+                          {
+                              "id":  "externalidentityImplGuide",
+                              "name":  "Document Retired",
+                              "pdfFile":  "salesforce_external_identity_implementation_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.2,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/238/latest/en-us/sfdc/pdf/salesforce_external_identity_implementation_guide.pdf"
+                          },
+                          {
+                              "id":  "headless_identity",
+                              "name":  "What Is Headless Identity?",
+                              "pdfFile":  "headless_identity_impl_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.28,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/headless_identity_impl_guide.pdf"
+                          },
+                          {
+                              "id":  "securityImplGuide",
+                              "name":  "Salesforce Security Guide",
+                              "pdfFile":  "salesforce_security_impl_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.07,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf"
+                          },
+                          {
+                              "id":  "secure_coding_guide",
+                              "name":  "Secure Coding Guidelines",
+                              "pdfFile":  "secure_coding.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.93,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/secure_coding.pdf"
+                          },
+                          {
+                              "id":  "draes",
+                              "name":  "Introduction",
+                              "pdfFile":  "draes.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.16,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/draes.pdf"
+                          },
+                          {
+                              "id":  "salesforce_record_access_under_the_hood",
+                              "name":  "Preface",
+                              "pdfFile":  "salesforce_record_access_under_the_hood.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.99,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_record_access_under_the_hood.pdf"
+                          },
+                          {
+                              "id":  "restriction_rules",
+                              "name":  "About This Guide",
+                              "pdfFile":  "restriction_rules.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.72,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/restriction_rules.pdf"
+                          },
+                          {
+                              "id":  "scoping_rules",
+                              "name":  "About This Guide",
+                              "pdfFile":  "scoping_rules_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.66,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/scoping_rules_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "packagingGuide",
+                              "name":  "ISVforce Guide: Build and Distribute AppExchange Solutions",
+                              "pdfFile":  "salesforce_packaging_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  8.56,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf"
+                          },
+                          {
+                              "id":  "appExchangeInstallGuide",
+                              "name":  "What Is AppExchange?",
+                              "pdfFile":  "appexchange_install_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.3,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/appexchange_install_guide.pdf"
+                          },
+                          {
+                              "id":  "pkg1_dev",
+                              "name":  "First-Generation Managed Packages",
+                              "pdfFile":  "pkg1_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.73,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/pkg1_dev.pdf"
+                          },
+                          {
+                              "id":  "pkg2_dev",
+                              "name":  "Second-Generation Managed Packages",
+                              "pdfFile":  "pkg2_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.45,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/pkg2_dev.pdf"
+                          },
+                          {
+                              "id":  "mobile_sdk",
+                              "name":  "Introduction to Mobile Development",
+                              "pdfFile":  "mobile_sdk.pdf",
+                              "status":  "success",
+                              "sizeMB":  6.89,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/260/latest/en-us/sfdc/pdf/mobile_sdk.pdf"
+                          },
+                          {
+                              "id":  "mobile_offline",
+                              "name":  "Mobile App Development with Lightning Web Components and LWC Offline",
+                              "pdfFile":  "mobile_offline.pdf",
+                              "status":  "success",
+                              "sizeMB":  13.38,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/mobile_offline.pdf"
+                          },
+                          {
+                              "id":  "pushImplGuide",
+                              "name":  "Mobile Notifications Overview",
+                              "pdfFile":  "salesforce_mobile_push_notifications_implementation.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.7,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf"
+                          },
+                          {
+                              "id":  "live_agent_dev",
+                              "name":  "About This Guide",
+                              "pdfFile":  "chat_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.11,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/chat_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "live_agent_rest",
+                              "name":  "Overview",
+                              "pdfFile":  "chat_rest.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.57,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/chat_rest.pdf"
+                          },
+                          {
+                              "id":  "snapins_web_dev",
+                              "name":  "Embedded Service Chat for Web Developer Guide",
+                              "pdfFile":  "embedded_services_web_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.98,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/embedded_services_web_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "service_sdk_ios",
+                              "name":  "Embedded Service Chat SDK for iOS Developer Guide",
+                              "pdfFile":  "service_sdk_ios.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.56,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/servicesdk/238/0/en-us/pdf/service_sdk_ios.pdf"
+                          },
+                          {
+                              "id":  "service_sdk_android",
+                              "name":  "Embedded Service Chat SDK for Android Developer Guide",
+                              "pdfFile":  "service_sdk_android.pdf",
+                              "status":  "success",
+                              "sizeMB":  5.05,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/servicesdk/224/2/en-us/pdf/service_sdk_android.pdf"
+                          },
+                          {
+                              "id":  "omni_channel_dev",
+                              "name":  "Omni-Channel Developer Guide",
+                              "pdfFile":  "service_presence_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.59,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "voice_developer_guide",
+                              "name":  "Service Cloud Voice Implementation Guide",
+                              "pdfFile":  "voice_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  11.51,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/voice_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "voice_pt_developer_guide",
+                              "name":  "Service Cloud Voice for Partner Telephony Developer Guide",
+                              "pdfFile":  "voice_pt_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  8.29,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/voice_pt_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "service_connector_api_developer_guide",
+                              "name":  "Service Cloud Connector API Reference",
+                              "pdfFile":  "service_connector_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.72,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/service_connector_api.pdf"
+                          },
+                          {
+                              "id":  "financial_services_cloud_object_reference",
+                              "name":  "Financial Services Cloud Developer Guide",
+                              "pdfFile":  "fsc_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.2,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/fsc_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "asl_dev_guide",
+                              "name":  "Introduction to Accounting Subledger",
+                              "pdfFile":  "asl_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.52,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/asl_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "blng_dev",
+                              "name":  "Salesforce Billing Fields on Standard Objects",
+                              "pdfFile":  "apex_reference_blng.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.03,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apex_reference_blng.pdf"
+                          },
+                          {
+                              "id":  "cpq_dev_api",
+                              "name":  "Salesforce CPQ Developer Guide",
+                              "pdfFile":  "cpq_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.07,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/cpq_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "cpq_plugins",
+                              "name":  "Salesforce CPQ Plugins",
+                              "pdfFile":  "cpq_plugins.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.58,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/cpq_plugins.pdf"
+                          },
+                          {
+                              "id":  "health_cloud_object_reference",
+                              "name":  "Health Cloud Developer Guide",
+                              "pdfFile":  "health_cloud_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  16.33,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/health_cloud_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "retail_api",
+                              "name":  "Get Started with Consumer Goods Cloud",
+                              "pdfFile":  "retail_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  5.35,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/retail_api.pdf"
+                          },
+                          {
+                              "id":  "cgcloud_rtr_dev_guide",
+                              "name":  "Introduction",
+                              "pdfFile":  "realtime_reporting_and_integration_apis.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.49,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/realtime_reporting_and_integration_apis.pdf"
+                          },
+                          {
+                              "id":  "automotive_cloud",
+                              "name":  "Introduction to Automotive Cloud Developer Guide",
+                              "pdfFile":  "automotive_cloud.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.48,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/automotive_cloud.pdf"
+                          },
+                          {
+                              "id":  "edu_cloud_dev_guide",
+                              "name":  "Introduction to Education Cloud",
+                              "pdfFile":  "edu_cloud_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.32,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/edu_cloud_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "industries_reference",
+                              "name":  "Industries Common Resources",
+                              "pdfFile":  "salesforce_industries_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  8.77,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_industries_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "nonprofit_cloud",
+                              "name":  "Introduction to Nonprofit Cloud",
+                              "pdfFile":  "nonprofit_cloud.pdf",
+                              "status":  "success",
+                              "sizeMB":  7.05,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/nonprofit_cloud.pdf"
+                          },
+                          {
+                              "id":  "nonprofit_cloud_for_grantmaking_dev_guide",
+                              "name":  "Introduction to Grantmaking",
+                              "pdfFile":  "nonprofit_cloud_for_grantmaking_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.36,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/nonprofit_cloud_for_grantmaking_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "insurance_developer_guide",
+                              "name":  "Get Started with Insurance Developer Resources",
+                              "pdfFile":  "insurance_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.68,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/insurance_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "loyalty",
+                              "name":  "Loyalty Management Standard Objects",
+                              "pdfFile":  "loyalty_api.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.95,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/loyalty_api.pdf"
+                          },
+                          {
+                              "id":  "mfg_api_devguide",
+                              "name":  "Manufacturing Cloud Standard Objects",
+                              "pdfFile":  "mfg_api_devguide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.73,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/mfg_api_devguide.pdf"
+                          },
+                          {
+                              "id":  "media_developer_guide",
+                              "name":  "Media Cloud Developer Guide",
+                              "pdfFile":  "media_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.49,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/media_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "netzero_cloud_dev_guide",
+                              "name":  "Introduction to Net Zero Cloud",
+                              "pdfFile":  "netzero_cloud_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.45,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/netzero_cloud_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "psc_api",
+                              "name":  "Public Sector Solutions Data Models",
+                              "pdfFile":  "objects.pdf",
+                              "status":  "success",
+                              "sizeMB":  14.63,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/objects.pdf"
+                          },
+                          {
+                              "id":  "revenue_lifecycle_management_dev_guide",
+                              "name":  "Get Started with Revenue Cloud Developer Resources",
+                              "pdfFile":  "revenue_lifecycle_management_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  10.11,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/revenue_lifecycle_management_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "channel_revenue_management_dev_guide",
+                              "name":  "Channel Partner Inventory Tracking Standard Objects",
+                              "pdfFile":  "channel_revenue_management.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.51,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/channel_revenue_management.pdf"
+                          },
+                          {
+                              "id":  "life_sciences_dev_guide",
+                              "name":  "Life Sciences Cloud Overview",
+                              "pdfFile":  "life_sciences_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  25.89,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/life_sciences_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "eu_developer_guide",
+                              "name":  "Energy and Utilities Cloud",
+                              "pdfFile":  "eu_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.85,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/eu_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "comms_developer_guide",
+                              "name":  "Communications Cloud Sales Resources",
+                              "pdfFile":  "comms_business_apis.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.41,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/comms_business_apis.pdf"
+                          },
+                          {
+                              "id":  "communities_dev",
+                              "name":  "Get Up to Speed with Experience Builder Sites",
+                              "pdfFile":  "communities_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.93,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/communities_dev.pdf"
+                          },
+                          {
+                              "id":  "exp_cloud_lwr",
+                              "name":  "LWR Sites for Experience Cloud",
+                              "pdfFile":  "exp_cloud_lwr.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.96,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/exp_cloud_lwr.pdf"
+                          },
+                          {
+                              "id":  "knowledge_dev",
+                              "name":  "Developing with Salesforce Knowledge",
+                              "pdfFile":  "salesforce_knowledge_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.03,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_knowledge_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "field_service_dev",
+                              "name":  "Field Service Developer Guide",
+                              "pdfFile":  "field_service_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  5.47,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/field_service_dev.pdf"
+                          },
+                          {
+                              "id":  "field_history_retention",
+                              "name":  "Field Audit Trail",
+                              "pdfFile":  "field_history_retention.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.48,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/field_history_retention.pdf"
+                          },
+                          {
+                              "id":  "fundamentals",
+                              "name":  "Document Retired",
+                              "pdfFile":  "salesforce_creating_on_demand_apps.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.05,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_creating_on_demand_apps.pdf"
+                          },
+                          {
+                              "id":  "bigobjects",
+                              "name":  "Big Objects",
+                              "pdfFile":  "big_objects_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.64,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/big_objects_guide.pdf"
+                          },
+                          {
+                              "id":  "salesforce_large_data_volumes_bp",
+                              "name":  "Introduction",
+                              "pdfFile":  "salesforce_large_data_volumes_bp.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.66,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_large_data_volumes_bp.pdf"
+                          },
+                          {
+                              "id":  "caf_dev_guide",
+                              "name":  "Custom Address Fields",
+                              "pdfFile":  "caf_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.57,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/caf_dev.pdf"
+                          },
+                          {
+                              "id":  "federated_search",
+                              "name":  "Federated Search Developer Guide",
+                              "pdfFile":  "federated_search.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.39,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/250/latest/en-us/sfdc/pdf/federated_search.pdf"
+                          },
+                          {
+                              "id":  "salesforce_guided_engagement",
+                              "name":  "Salesforce Flow for Service",
+                              "pdfFile":  "salesforce_guided_engagement.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.62,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_guided_engagement.pdf"
+                          },
+                          {
+                              "id":  "case_feed_dev",
+                              "name":  "Get Started with the Publisher and Quick Action APIs",
+                              "pdfFile":  "case_feed_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.65,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "referral_marketing",
+                              "name":  "Introduction to Referral Marketing",
+                              "pdfFile":  "referral_marketing.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.08,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/referral_marketing.pdf"
+                          },
+                          {
+                              "id":  "workdotcom_dev_guide",
+                              "name":  "Extend Work.com with Custom Solutions",
+                              "pdfFile":  "workdotcom_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.05,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/workdotcom_dev.pdf"
+                          },
+                          {
+                              "id":  "workforce_engagement",
+                              "name":  "Workforce Engagement Developer Guide",
+                              "pdfFile":  "wem_cookbook_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  3.53,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/wem_cookbook_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "agentforce_it_service_dev_guide",
+                              "name":  "Agentforce IT Service Standard Objects",
+                              "pdfFile":  "agentforce_it_service.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.75,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/agentforce_it_service.pdf"
+                          },
+                          {
+                              "id":  "devops_center_dev",
+                              "name":  "DevOps Center Developer Guide",
+                              "pdfFile":  "devops_center_dev.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.96,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/devops_center_dev.pdf"
+                          },
+                          {
+                              "id":  "comm_cli_reference",
+                              "name":  "Salesforce Commerce Plug-In CLI Command Reference",
+                              "pdfFile":  "comm_cli_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.49,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/comm_cli_reference.pdf"
+                          },
+                          {
+                              "id":  "salesforce_scheduler_developer_guide",
+                              "name":  "Introduction to Salesforce Scheduler",
+                              "pdfFile":  "salesforce_scheduler_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.95,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_scheduler_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "salesforce_feedback_management_dev_guide",
+                              "name":  "Introduction to Salesforce Feedback Management",
+                              "pdfFile":  "salesforce_feedback_management_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.78,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_feedback_management_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "clm_developer_guide",
+                              "name":  "Salesforce Contracts",
+                              "pdfFile":  "clm_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.28,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/clm_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "maps_developer_guide",
+                              "name":  "Overview",
+                              "pdfFile":  "maps_dev_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.33,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/maps_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "salesforce_app_limits_cheatsheet",
+                              "name":  "About This Quick Reference",
+                              "pdfFile":  "salesforce_app_limits_cheatsheet.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.3,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf"
+                          },
+                          {
+                              "id":  "sfFieldRef",
+                              "name":  "Introduction",
+                              "pdfFile":  "salesforce_field_names_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  24.56,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_field_names_reference.pdf"
+                          },
+                          {
+                              "id":  "salesforce_dashboard_samples",
+                              "name":  "Sample CRM Dashboards",
+                              "pdfFile":  "salesforce_dashboard_samples.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.94,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_dashboard_samples.pdf"
+                          },
+                          {
+                              "id":  "salesforce_developer_environment_tipsheet",
+                              "name":  "Setting Up Your Java Developer Environment",
+                              "pdfFile":  "salesforce_developer_environment_tipsheet.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.25,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf"
+                          },
+                          {
+                              "id":  "salesforce_developer_environment_dotnet_tipsheet",
+                              "name":  "Setting Up Your .NET Developer Environment",
+                              "pdfFile":  "salesforce_developer_environment_dotnet_tipsheet.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.24,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_developer_environment_dotnet_tipsheet.pdf"
+                          },
+                          {
+                              "id":  "formula_date_time_tipsheet",
+                              "name":  "Using Date, Date/Time, and Time Values in Formulas",
+                              "pdfFile":  "formula_date_time_tipsheet.pdf",
+                              "status":  "success",
+                              "sizeMB":  1.17,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/formula_date_time_tipsheet.pdf"
+                          },
+                          {
+                              "id":  "salesforce_reports_enhanced_reports_tab_tipsheet",
+                              "name":  "Reports Tab",
+                              "pdfFile":  "salesforce_reports_enhanced_reports_tab_tipsheet.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.21,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_reports_enhanced_reports_tab_tipsheet.pdf"
+                          },
+                          {
+                              "id":  "usefulFormulaFields",
+                              "name":  "Examples of Advanced Formula Fields",
+                              "pdfFile":  "salesforce_useful_formula_fields.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.43,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf"
+                          },
+                          {
+                              "id":  "usefulValidationRules",
+                              "name":  "Examples of Validation Rules",
+                              "pdfFile":  "salesforce_useful_validation_formulas.pdf",
+                              "status":  "success",
+                              "sizeMB":  0.29,
+                              "version":  null,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/salesforce_useful_validation_formulas.pdf"
+                          }
+                      ],
+    "failCount":  0
+}

@@ -1,0 +1,397 @@
+﻿{
+    "totalDiscovered":  43,
+    "version":  "Winter 26 (API v65.0)",
+    "successCount":  43,
+    "totalSizeMB":  175.08,
+    "generatedAt":  "2026-01-17T23:55:29.5132264-06:00",
+    "documentation":  [
+                          {
+                              "id":  "ajax",
+                              "name":  "AJAX Toolkit Developer Guide",
+                              "pdfFile":  "apex_ajax.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.63,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apex_ajax.pdf"
+                          },
+                          {
+                              "id":  "api",
+                              "name":  "SOAP API Developer Guide",
+                              "pdfFile":  "apex_api.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  3.14,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apex_api.pdf"
+                          },
+                          {
+                              "id":  "api_action",
+                              "name":  "Actions Developer Guide",
+                              "pdfFile":  "api_action.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.95,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_action.pdf"
+                          },
+                          {
+                              "id":  "api_analytics",
+                              "name":  "Salesforce Reports and Dashboards REST API Developer Guide",
+                              "pdfFile":  "salesforce_analytics_rest_api.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.77,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_analytics_rest_api.pdf"
+                          },
+                          {
+                              "id":  "api_asynch",
+                              "name":  "Bulk API 2.0 and Bulk API Developer Guide",
+                              "pdfFile":  "api_asynch.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  4.46,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_asynch.pdf"
+                          },
+                          {
+                              "id":  "api_bulk_v2",
+                              "name":  "Bulk API 2.0 Older Documentation",
+                              "pdfFile":  "api_bulk_v2.pdf",
+                              "status":  "success",
+                              "version":  "Spring \u002722 (API version 54.0)",
+                              "sizeMB":  0.24,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/236/latest/en-us/sfdc/pdf/api_bulk_v2.pdf"
+                          },
+                          {
+                              "id":  "api_console",
+                              "name":  "Salesforce Console Developer Guide",
+                              "pdfFile":  "api_console.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.57,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_console.pdf"
+                          },
+                          {
+                              "id":  "api_cti",
+                              "name":  "Open CTI Developer Guide",
+                              "pdfFile":  "api_cti.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.47,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_cti.pdf"
+                          },
+                          {
+                              "id":  "api_meta",
+                              "name":  "Metadata API Developer Guide",
+                              "pdfFile":  "api_meta.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  10.54,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_meta.pdf"
+                          },
+                          {
+                              "id":  "api_rest",
+                              "name":  "REST API Developer Guide",
+                              "pdfFile":  "api_rest.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.5,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_rest.pdf"
+                          },
+                          {
+                              "id":  "api_streaming",
+                              "name":  "Streaming API Developer Guide",
+                              "pdfFile":  "api_streaming.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.38,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_streaming.pdf"
+                          },
+                          {
+                              "id":  "api_tooling",
+                              "name":  "Tooling API",
+                              "pdfFile":  "api_tooling.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  3.56,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_tooling.pdf"
+                          },
+                          {
+                              "id":  "apexcode",
+                              "name":  "Apex Developer Guide",
+                              "pdfFile":  "salesforce_apex_developer_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  5.68,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_apex_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "apexref",
+                              "name":  "Apex Reference Guide",
+                              "pdfFile":  "salesforce_apex_reference_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  25.27,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_apex_reference_guide.pdf"
+                          },
+                          {
+                              "id":  "appExchangeInstallGuide",
+                              "name":  "Application Installation Guide",
+                              "pdfFile":  "appexchange_install_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.3,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/appexchange_install_guide.pdf"
+                          },
+                          {
+                              "id":  "asl_dev_guide",
+                              "name":  "Accounting Subledger Developer Guide",
+                              "pdfFile":  "asl_dev_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.52,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/asl_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_json",
+                              "name":  "Analytics Dashboard JSON Developer Guide",
+                              "pdfFile":  "bi_dev_guide_json.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.81,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_json.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_xmd",
+                              "name":  "Analytics Extended Metadata (XMD) Developer Guide",
+                              "pdfFile":  "bi_dev_guide_xmd.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.07,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_xmd.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_ext_data",
+                              "name":  "Analytics External Data API Developer Guide",
+                              "pdfFile":  "bi_dev_guide_ext_data.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.55,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_ext_data.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_saql",
+                              "name":  "Analytics SAQL Developer Guide",
+                              "pdfFile":  "bi_dev_guide_saql.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.69,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_sdk",
+                              "name":  "Analytics SDK Developer Guide",
+                              "pdfFile":  "bi_dev_guide_sdk.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.31,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/bi_dev_guide_sdk.pdf"
+                          },
+                          {
+                              "id":  "bi_dev_guide_wave_templates",
+                              "name":  "Analytics Templates Developer Guide",
+                              "pdfFile":  "bi_dev_guide_wave_templates.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.96,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/bi_dev_guide_wave_templates.pdf"
+                          },
+                          {
+                              "id":  "chatterapi",
+                              "name":  "Connect REST API Developer Guide",
+                              "pdfFile":  "salesforce_chatter_rest_api.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  12.51,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_chatter_rest_api.pdf"
+                          },
+                          {
+                              "id":  "communities_dev",
+                              "name":  "Experience Cloud Developer Guide",
+                              "pdfFile":  "communities_dev.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  3.93,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/communities_dev.pdf"
+                          },
+                          {
+                              "id":  "daas",
+                              "name":  "Ant Migration Tool Guide",
+                              "pdfFile":  "salesforce_migration_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.64,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_migration_guide.pdf"
+                          },
+                          {
+                              "id":  "externalidentityImplGuide",
+                              "name":  "Salesforce External Identity Implementation Guide",
+                              "pdfFile":  "salesforce_external_identity_implementation_guide.pdf",
+                              "status":  "success",
+                              "version":  "Summer \u002722 (API version 55.0)",
+                              "sizeMB":  0.2,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/238/latest/en-us/sfdc/pdf/salesforce_external_identity_implementation_guide.pdf"
+                          },
+                          {
+                              "id":  "identityImplGuide",
+                              "name":  "Identity Implementation Guide",
+                              "pdfFile":  "salesforce_identity_implementation_guide.pdf",
+                              "status":  "success",
+                              "version":  "Summer \u002721 (API version 52.0)",
+                              "sizeMB":  1.13,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/232/latest/en-us/sfdc/pdf/salesforce_identity_implementation_guide.pdf"
+                          },
+                          {
+                              "id":  "knowledge_dev",
+                              "name":  "Salesforce Knowledge Developer Guide",
+                              "pdfFile":  "salesforce_knowledge_dev_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.03,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_knowledge_dev_guide.pdf"
+                          },
+                          {
+                              "id":  "lightning",
+                              "name":  "Lightning Aura Components Developer Guide",
+                              "pdfFile":  "lightning.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  4.68,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/lightning.pdf"
+                          },
+                          {
+                              "id":  "mobile_sdk",
+                              "name":  "Mobile SDK Development Guide",
+                              "pdfFile":  "mobile_sdk.pdf",
+                              "status":  "success",
+                              "version":  null,
+                              "sizeMB":  6.89,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/260/latest/en-us/sfdc/pdf/mobile_sdk.pdf"
+                          },
+                          {
+                              "id":  "object_reference",
+                              "name":  "Object Reference for the Salesforce Platform",
+                              "pdfFile":  "object_reference.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  19.03,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/object_reference.pdf"
+                          },
+                          {
+                              "id":  "packagingGuide",
+                              "name":  "ISVforce Guide ",
+                              "pdfFile":  "salesforce_packaging_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  8.56,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf"
+                          },
+                          {
+                              "id":  "pages",
+                              "name":  "Visualforce Developer Guide",
+                              "pdfFile":  "salesforce_pages_developers_guide.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  7.95,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_pages_developers_guide.pdf"
+                          },
+                          {
+                              "id":  "platform_connect",
+                              "name":  "Canvas Developer Guide",
+                              "pdfFile":  "canvas_framework.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.56,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/canvas_framework.pdf"
+                          },
+                          {
+                              "id":  "sfdx_dev",
+                              "name":  "Salesforce DX Developer Guide",
+                              "pdfFile":  "sfdx_dev.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  3.42,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_dev.pdf"
+                          },
+                          {
+                              "id":  "sfdx_cli_reference",
+                              "name":  "Salesforce CLI Command Reference",
+                              "pdfFile":  "sfdx_cli_reference.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.52,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf"
+                          },
+                          {
+                              "id":  "soql_sosl",
+                              "name":  "SOQL and SOSL Reference",
+                              "pdfFile":  "salesforce_soql_sosl.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.63,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_soql_sosl.pdf"
+                          },
+                          {
+                              "id":  "agentforce_it_service_dev_guide",
+                              "name":  "Agentforce IT Service Developer Guide",
+                              "pdfFile":  "agentforce_it_service.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.75,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/agentforce_it_service.pdf"
+                          },
+                          {
+                              "id":  "platform_events",
+                              "name":  "Platform Events Developer Guide",
+                              "pdfFile":  "platform_events.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  3.88,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/platform_events.pdf"
+                          },
+                          {
+                              "id":  "change_data_capture",
+                              "name":  "Change Data Capture Developer Guide",
+                              "pdfFile":  "salesforce_change_data_capture.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  1.52,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_change_data_capture.pdf"
+                          },
+                          {
+                              "id":  "field_history_retention",
+                              "name":  "Field Audit Trail Implementation Guide ",
+                              "pdfFile":  "field_history_retention.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  0.48,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/field_history_retention.pdf"
+                          },
+                          {
+                              "id":  "mobile_offline",
+                              "name":  "Mobile and Offline Developer Guide",
+                              "pdfFile":  "mobile_offline.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  13.38,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/mobile_offline.pdf"
+                          },
+                          {
+                              "id":  "uiapi",
+                              "name":  "User Interface API Developer Guide",
+                              "pdfFile":  "api_ui.pdf",
+                              "status":  "success",
+                              "version":  "Winter \u002726 (API version 65.0)",
+                              "sizeMB":  2.02,
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_ui.pdf"
+                          }
+                      ],
+    "failedCount":  0
+}

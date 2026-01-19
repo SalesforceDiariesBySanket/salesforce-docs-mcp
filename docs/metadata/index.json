@@ -1,0 +1,91 @@
+﻿{
+    "failedCount":  4,
+    "version":  "Winter 26",
+    "successCount":  5,
+    "generatedAt":  "2026-01-17T23:48:40.6801548-06:00",
+    "documentation":  [
+                          {
+                              "id":  "apexcode",
+                              "name":  "Apex Developer Guide",
+                              "pdfFile":  "salesforce_apex_developer_guide.pdf",
+                              "status":  "success",
+                              "sizeMB":  5.68,
+                              "category":  "Core",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/salesforce_apex_developer_guide.pdf"
+                          },
+                          {
+                              "id":  "apexref",
+                              "name":  "Apex Reference",
+                              "pdfFile":  "",
+                              "status":  "failed",
+                              "sizeMB":  0,
+                              "category":  "Core",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/apexref.pdf"
+                          },
+                          {
+                              "id":  "api_rest",
+                              "name":  "REST API",
+                              "pdfFile":  "api_rest.pdf",
+                              "status":  "success",
+                              "sizeMB":  2.5,
+                              "category":  "API",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_rest.pdf"
+                          },
+                          {
+                              "id":  "api",
+                              "name":  "SOAP API",
+                              "pdfFile":  "",
+                              "status":  "failed",
+                              "sizeMB":  0,
+                              "category":  "API",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api.pdf"
+                          },
+                          {
+                              "id":  "api_meta",
+                              "name":  "Metadata API",
+                              "pdfFile":  "api_meta.pdf",
+                              "status":  "success",
+                              "sizeMB":  10.54,
+                              "category":  "API",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/api_meta.pdf"
+                          },
+                          {
+                              "id":  "object_reference",
+                              "name":  "Object Reference",
+                              "pdfFile":  "object_reference.pdf",
+                              "status":  "success",
+                              "sizeMB":  19.03,
+                              "category":  "Data",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/object_reference.pdf"
+                          },
+                          {
+                              "id":  "lightning",
+                              "name":  "Lightning Web Components",
+                              "pdfFile":  "lightning.pdf",
+                              "status":  "success",
+                              "sizeMB":  4.68,
+                              "category":  "Core",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/lightning.pdf"
+                          },
+                          {
+                              "id":  "pages",
+                              "name":  "Visualforce",
+                              "pdfFile":  "",
+                              "status":  "failed",
+                              "sizeMB":  0,
+                              "category":  "Core",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/pages.pdf"
+                          },
+                          {
+                              "id":  "soql_sosl",
+                              "name":  "SOQL SOSL Reference",
+                              "pdfFile":  "",
+                              "status":  "failed",
+                              "sizeMB":  0,
+                              "category":  "Data",
+                              "pdfUrl":  "https://resources.docs.salesforce.com/258/latest/en-us/sfdc/pdf/soql_sosl.pdf"
+                          }
+                      ],
+    "totalDocs":  9,
+    "totalSizeMB":  42.43
+}
