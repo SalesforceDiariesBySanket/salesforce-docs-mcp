@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026
+Copyright (c) 2026 Sanket (SalesforceDiariesBySanket)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+SALESFORCE DOCUMENTATION DISCLAIMER
+
+The Salesforce documentation PDF files included in the /docs directory of this
+repository are the property of Salesforce, Inc. and are provided for convenience
+only. These documents are subject to Salesforce's own terms of use and copyright.
+
+The trademarks and product names of Salesforce®, including the mark Salesforce®,
+are the property of Salesforce, Inc. This project is not affiliated with, sponsored
+by, or endorsed by Salesforce, Inc. The use of the Salesforce® trademark and
+Salesforce documentation in this project does not indicate an endorsement,
+recommendation, or business relationship between Salesforce, Inc. and the
+project maintainers.
+
+Salesforce documentation is © Salesforce, Inc. All rights reserved.
+
+For official Salesforce documentation, please visit:
+https://developer.salesforce.com/docs

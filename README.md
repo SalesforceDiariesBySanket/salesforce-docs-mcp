@@ -239,4 +239,16 @@ Intent-Based Search:
 
 ## 📜 License
 
-MIT License - All documentation content © Salesforce, Inc.
+MIT License - see [LICENSE](LICENSE) for details.
+
+## ⚠️ Disclaimer
+
+**Salesforce Documentation:** The Salesforce documentation PDF files included in this repository are the property of Salesforce, Inc. and are provided for convenience only. These documents are subject to Salesforce's own terms of use and copyright.
+
+**Trademark Notice:** The trademarks and product names of Salesforce®, including the mark Salesforce®, are the property of Salesforce, Inc. This project is **not affiliated with, sponsored by, or endorsed by Salesforce, Inc.** The use of the Salesforce® trademark and Salesforce documentation in this project does not indicate an endorsement, recommendation, or business relationship between Salesforce, Inc. and the project maintainers.
+
+**Official Documentation:** For official Salesforce documentation, please visit [developer.salesforce.com/docs](https://developer.salesforce.com/docs).
+
+---
+
+© 2026 Sanket (SalesforceDiariesBySanket) | Salesforce documentation © Salesforce, Inc.
