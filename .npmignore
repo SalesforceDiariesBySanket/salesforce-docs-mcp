@@ -1,0 +1,40 @@
+# npmignore - files to exclude from npm package
+
+# Source files (dist is included)
+src/
+
+# Scripts (except postinstall)
+scripts/build-index.ts
+scripts/test-search.ts
+
+# Documentation source
+docs/pdfs/
+docs/release-notes/
+docs/metadata/
+docs/help-products/
+
+# Development files
+*.ts
+!dist/**/*.d.ts
+tsconfig.json
+
+# Git files
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+coverage/
+*.test.ts
+*.spec.ts
+
+# Documentation
+MCP_ARCHITECTURE.md
+SETUP_COMPLETE.md
+DOCUMENTATION_ANALYSIS.md
+
+# Old Python files
+*.py

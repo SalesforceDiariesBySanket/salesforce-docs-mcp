@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Database (built locally)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Test data (development only)
+data/llm-judge-results.json
+data/test-baseline.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Development files (not needed for end users)
+scripts/test-*.ts
+.sfdx/
+.venv/
+
+# Documentation analysis (internal)
+docs/DOCUMENTATION_ANALYSIS.md
+MCP_ARCHITECTURE.md
+SETUP_COMPLETE.md
