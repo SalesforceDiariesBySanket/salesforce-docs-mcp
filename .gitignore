@@ -43,5 +43,4 @@ scripts/test-*.ts
 
 # Documentation analysis (internal)
 docs/DOCUMENTATION_ANALYSIS.md
-MCP_ARCHITECTURE.md
-SETUP_COMPLETE.md
+
